@@ -1,0 +1,7 @@
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\01_Tarea.Operadores\11. Actividad\obj\Debug\11. Actividad.csproj.AssemblyReference.cache
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\01_Tarea.Operadores\11. Actividad\obj\Debug\11. Actividad.csproj.CoreCompileInputs.cache
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\01_Tarea.Operadores\11. Actividad\bin\Debug\_11.Actividad.exe.config
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\01_Tarea.Operadores\11. Actividad\bin\Debug\_11.Actividad.exe
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\01_Tarea.Operadores\11. Actividad\bin\Debug\_11.Actividad.pdb
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\01_Tarea.Operadores\11. Actividad\obj\Debug\_11.Actividad.exe
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\01_Tarea.Operadores\11. Actividad\obj\Debug\_11.Actividad.pdb
